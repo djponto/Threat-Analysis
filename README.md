@@ -113,5 +113,5 @@ This project demonstrates the importance of understanding APT groups and their a
 - APT29 and APT32 reports from various cybersecurity publications.
 
 ---
-
+George Ofosu, CASP
 
